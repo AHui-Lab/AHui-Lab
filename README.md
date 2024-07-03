@@ -3,12 +3,17 @@
 I'm AHui, an aspiring embedded engineer with a passion for crafting smart solutions that blend hardware and software. 
 The main research interests are wearable sensing ⌚ and human-computer interaction.🤖
 
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-#
--   <a href="https://space.bilibili.com/397748545"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站
+## Social Networking Page 🌐
+- <a href="https://space.bilibili.com/397748545"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站
+## Technology Stack 💻
+- <a href="https://de.mathworks.com/products/matlab.html"><code><img height="40" src="./images/matlab-logo.png"></code></a>
+<a href="https://en.cppreference.com/w/c"><code><img height="40" src="./images/R-C.png"></code></a>
+<a href="https://dotnet.microsoft.com/zh-cn/languages/csharp"><code><img height="40" src="./images/C#.jpg"></code></a>
+<a href="https://unity.cn/"><code><img height="40" src="./images/Unity.jpg"></code></a>
 
 ## 🔧 Skills
+<img align="right" alt="GIF" src="./images/code.gif" width="230" height="100%" />
 
 - **Programming Languages**: C, C++, Assembly, C# for Unity3D scripting.
 - **Embedded Systems**: STM32F1/F4, MSP, 51 series microcontrollers, I'm your go-to for embedded wizardry.
