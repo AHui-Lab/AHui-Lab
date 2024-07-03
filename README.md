@@ -3,6 +3,9 @@
 I'm AHui, an aspiring embedded engineer with a passion for crafting smart solutions that blend hardware and software. 
 The main research interests are wearable sensing ⌚ and human-computer interaction🤖
 
+#
+-   <a href="https://space.bilibili.com/397748545"><code><img height="20" width="50" src="./images/bilibli.png"></code></a>：B站
+
 ## 🔧 Skills
 
 - **Programming Languages**: C, C++, Assembly, C# for Unity3D scripting.
