@@ -6,7 +6,7 @@ The main research interests are wearable sensing ⌚ and human-computer interact
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 #
--   <a href="https://space.bilibili.com/397748545"><code><img height="20" width="50" src="./images/bilibli.png"></code></a>：B站
+-   <a href="https://space.bilibili.com/397748545"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站
 
 ## 🔧 Skills
 
