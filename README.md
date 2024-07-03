@@ -1,7 +1,9 @@
 # 🎉 Hello, GitHub Universe! 🌌
 
 I'm AHui, an aspiring embedded engineer with a passion for crafting smart solutions that blend hardware and software. 
-The main research interests are wearable sensing ⌚ and human-computer interaction🤖
+The main research interests are wearable sensing ⌚ and human-computer interaction.🤖
+
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 #
 -   <a href="https://space.bilibili.com/397748545"><code><img height="20" width="50" src="./images/bilibli.png"></code></a>：B站
