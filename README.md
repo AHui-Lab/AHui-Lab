@@ -9,7 +9,7 @@ The main research interests are wearable sensing ⌚ and human-computer interact
 ## Technology Stack 💻
 - <a href="https://de.mathworks.com/products/matlab.html"><code><img height="40" src="./images/matlab-logo.png"></code></a>
 <a href="https://en.cppreference.com/w/c"><code><img height="40" src="./images/R-C.png"></code></a>
-<a href="https://dotnet.microsoft.com/zh-cn/languages/csharp"><code><img height="40" src="./images/C#.png"></code></a>
+<a href="https://dotnet.microsoft.com/zh-cn/languages/csharp"><code><img height="40" src="./images/CS.png"></code></a>
 <a href="https://unity.cn/"><code><img height="40" src="./images/Unity.jpg"></code></a>
 
 ## 🔧 Skills
